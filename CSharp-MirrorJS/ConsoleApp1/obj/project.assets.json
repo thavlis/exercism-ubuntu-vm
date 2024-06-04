@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/ubuntu-vm/.nuget/packages/": {}
+    "/home/ubuntu2/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ubuntu-vm/Documents/repository-ubuntu/exercism/CSharp/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/home/ubuntu2/Documents/vscode/exercism-ubuntu-vm/CSharp-MirrorJS/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/home/ubuntu-vm/Documents/repository-ubuntu/exercism/CSharp/ConsoleApp1/ConsoleApp1.csproj",
-      "packagesPath": "/home/ubuntu-vm/.nuget/packages/",
-      "outputPath": "/home/ubuntu-vm/Documents/repository-ubuntu/exercism/CSharp/ConsoleApp1/obj/",
+      "projectPath": "/home/ubuntu2/Documents/vscode/exercism-ubuntu-vm/CSharp-MirrorJS/ConsoleApp1/ConsoleApp1.csproj",
+      "packagesPath": "/home/ubuntu2/.nuget/packages/",
+      "outputPath": "/home/ubuntu2/Documents/vscode/exercism-ubuntu-vm/CSharp-MirrorJS/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/ubuntu-vm/.nuget/NuGet/NuGet.Config"
+        "/home/ubuntu2/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
